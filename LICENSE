@@ -1,0 +1,21 @@
+TermVol Proprietary License
+
+Copyright (c) 2024 SaschaN85
+
+All rights reserved.
+
+1. Redistribution in binary form is permitted provided that:
+   a. The above copyright notice and this license appear in all copies.
+   b. The recipient does not modify, reverse-engineer, or decompile the software.
+
+2. Any other use, reproduction, or distribution of this software requires express written permission.
+
+3. THIS SOFTWARE IS PROVIDED "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES.
+
+This software uses the Advanced Linux Sound Architecture (ALSA), which is licensed under the GNU Lesser General Public License (LGPL). The full text of the LGPL license can be found at: https://www.gnu.org/licenses/lgpl-3.0.en.html
+
+Users are entitled to obtain the source code of ALSA as per the terms of the LGPL. ALSA can be obtained from: https://www.alsa-project.org/wiki/Main_Page
+
+Additional Notices:
+- TermVol dynamically links to ALSA and does not modify its source code.
+- Users who wish to modify ALSA or obtain its source code should refer to the ALSA project website mentioned above.
